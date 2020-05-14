@@ -1,0 +1,38 @@
+body {
+  background-image: url('http://mememania.web2237.uni5.net/uploads/memes/x7m9WFaIKE.jpg.pagespeed.ic.1LJjJETrex.webp');
+  background-size: auto 100vh; 
+  font-family: Arial;
+  height: 100vh;
+}
+
+.menu {
+  background-color: white;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+ list-style: none; 
+}
+
+a {
+  color: #04802383;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-subtitle, 
+.site-title {
+  color: red;
+  text-align: center;
+}
+
+.site-subtitle {
+ font-style: Arial;
+}
